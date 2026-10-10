@@ -219,7 +219,7 @@ footer p{
 .back-to-top{
     position: fixed;
     bottom: 2rem;
-    right: 2rem;
+    left: 2rem;
     background: var(--white-color);
     width: 5rem;
     height: 5rem;
